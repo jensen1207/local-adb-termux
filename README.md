@@ -47,6 +47,6 @@ Connect to **PC A** with any SSH client in **PC B** as following input:
 `Host:<your-vps-domain>` (You may need apply for one)  
 `Port:<your-want-to-expose-port>  `  
 `User:PC A user  `  
-`Password: PC A user password`  
+`Password: PC A SSH password`  
 
 Here we go!✈️

@@ -13,7 +13,7 @@ Type command in ADB of PC side
 
 **Step 3:**
 Type command in ADB of Android side（Install android-tools first）
-
+Shutdown USB debugging mode in case emulator-5554 showing
 `adb connect localhost:5555`
 
 DONE!

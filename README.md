@@ -32,6 +32,7 @@ And restart sshd
 
 **Step 2:**
 Run following command in your local PC (We can name it **PC A**)  
+Run `sshd` first if Android restart
 
 `ssh -R <your-want-to-expose-port>:localhost:<your-SSH-port or other-application-port> -N <your-vps-login-name>@<your-vps-public-IP>`  
 
